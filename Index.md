@@ -1,3 +1,7 @@
+---
+layout: default
+title: Desafio Git Alpha
+---
 # O que aprendi na Alpha até agora?
 
 A Alpha  está me proporcionando um grande aprendizado em um curto período  de tempo e este resumo tem como objetivo mostrar o conteúdo que foi tratado durante esse inicio.
